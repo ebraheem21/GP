@@ -1,0 +1,16 @@
+../Core/Src/Bootloader_Program.c:35:11:BL_FeatchHostCommand	9
+../Core/Src/Bootloader_Program.c:92:6:BL_SendMsg	1
+../Core/Src/Bootloader_Program.c:108:6:BL_GetVersion	2
+../Core/Src/Bootloader_Program.c:125:6:BL_GetHelp	2
+../Core/Src/Bootloader_Program.c:142:6:BL_GetChipIdentificationNumber	2
+../Core/Src/Bootloader_Program.c:161:6:BL_JumpToAddress	3
+../Core/Src/Bootloader_Program.c:200:6:BL_FlashErase	3
+../Core/Src/Bootloader_Program.c:226:6:BL_FlashWrite	3
+../Core/Src/Bootloader_Program.c:267:10:BL_CRC_Verify	3
+../Core/Src/Bootloader_Program.c:290:9:PerformFlashErase	7
+../Core/Src/Bootloader_Program.c:350:9:BL_AddressVerification	5
+../Core/Src/Bootloader_Program.c:368:6:bootloader_jump_to_user_app	3
+../Core/Src/Bootloader_Program.c:410:9:FlashMemory_PayloadWrite	7
+../Core/Src/Bootloader_Program.c:455:6:BL_Send_ACK	1
+../Core/Src/Bootloader_Program.c:463:6:BL_Send_NACK	1
+../Core/Src/Bootloader_Program.c:469:6:Bootloader_Send_Data_To_Host	1

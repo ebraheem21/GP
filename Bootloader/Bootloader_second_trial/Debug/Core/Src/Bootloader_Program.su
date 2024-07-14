@@ -1,0 +1,16 @@
+../Core/Src/Bootloader_Program.c:35:11:BL_FeatchHostCommand	16	static
+../Core/Src/Bootloader_Program.c:92:6:BL_SendMsg	112	static
+../Core/Src/Bootloader_Program.c:108:6:BL_GetVersion	24	static
+../Core/Src/Bootloader_Program.c:125:6:BL_GetHelp	24	static
+../Core/Src/Bootloader_Program.c:142:6:BL_GetChipIdentificationNumber	32	static
+../Core/Src/Bootloader_Program.c:161:6:BL_JumpToAddress	40	static
+../Core/Src/Bootloader_Program.c:200:6:BL_FlashErase	32	static
+../Core/Src/Bootloader_Program.c:226:6:BL_FlashWrite	32	static
+../Core/Src/Bootloader_Program.c:267:10:BL_CRC_Verify	40	static
+../Core/Src/Bootloader_Program.c:290:9:PerformFlashErase	48	static
+../Core/Src/Bootloader_Program.c:350:9:BL_AddressVerification	24	static
+../Core/Src/Bootloader_Program.c:368:6:bootloader_jump_to_user_app	40	static,ignoring_inline_asm
+../Core/Src/Bootloader_Program.c:410:9:FlashMemory_PayloadWrite	40	static
+../Core/Src/Bootloader_Program.c:455:6:BL_Send_ACK	24	static
+../Core/Src/Bootloader_Program.c:463:6:BL_Send_NACK	16	static
+../Core/Src/Bootloader_Program.c:469:6:Bootloader_Send_Data_To_Host	16	static
